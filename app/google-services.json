@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278359283136",
+    "project_id": "img-to-fb-practice",
+    "storage_bucket": "img-to-fb-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278359283136:android:ab7961773a337a447e6425",
+        "android_client_info": {
+          "package_name": "com.example.img_to_fb_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278359283136-pn0ucknmo48tjm6botbjqiohv9a5dq7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtko-KVV_eCfSBDWzt9K0zMD59EZbh-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278359283136-pn0ucknmo48tjm6botbjqiohv9a5dq7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
